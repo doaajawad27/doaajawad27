@@ -1,23 +1,25 @@
-<img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/header.png" alt="Doaa Abdo GitHub README header image" style="width: 100%;">
-<!-- ملاحظة: يفضل إنشاء صورة رأسية خاصة بكِ ووضع رابطها هنا، أو حذف هذا السطر إذا لم يتوفر لديكِ واحدة -->
+<img src="https://github.com/doaajawad27/doaajawad27/blob/main/header.png" alt="Doaa Abdo GitHub README header image" width="800">
 
+<!--
 <p align="center">
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/Doaa Abdo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.youtube.com/@YourYouTubeChannel"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-  <!-- يمكنكِ إضافة روابط لمواقع تواصل اجتماعي أخرى إذا كنتِ تستخدمينها مهنياً، أو حذف هذه السطور -->
 </p>
+-->
 
-## ✨ عني
 
-أنا دعاء عبدو، طالبة في مجال البرمجة، شغوفة جداً بتعلم التكنولوجيا وكل ما يتعلق بعالم التطوير. أسعى حالياً لبناء أساس قوي في علوم الكمبيوتر وهندسة البرمجيات.
+## ✨ About Me
 
-* 🎓 أدرس حالياً البرمجة لتطوير مهاراتي ومعرفتي.
-* 💡 أمتلك معرفة جيدة بلغة **Java** و **C++**.
-* 🚀 أسعى دائماً لتعلم تقنيات ولغات جديدة وتطبيق ما أتعلمه في مشاريع عملية.
+I’m **Doaa Abdo**, a student passionate about programming and technology.  
+Currently, I’m building a strong foundation in computer science and software engineering.
+
+* 🎓 Studying programming to improve my skills and knowledge.  
+* 💡 Familiar with **Java** and **C++**.  
+* 🚀 Always eager to learn new technologies and apply them in real projects.  
 
 ---
 
-## 🛠️ المهارات والتقنيات
+## 🛠️ Skills & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -26,41 +28,32 @@
 
 ---
 
-## 🚀 مشاريعي الأخيرة
+## 🚀 Recent Projects
 
-* 🔭 **[اسم المشروع الأول]**: وصف قصير جداً ومبسط لما يقوم به المشروع. (رابط المشروع على جيت هاب)
-* 🔭 **[اسم المشروع الثاني]**: وصف قصير جداً ومبسط لما يقوم به المشروع. (رابط المشروع على جيت هاب)
-<!-- يمكنكِ إضافة مشاريع برمجية قمتِ بإنجازها، أو حذف هذا القسم إذا لم تتوفر لديكِ مشاريع حالياً -->
-
+* 🔭 **[Bank System]**:🔭   
+A beginner-friendly C++ application that simulates basic banking operations.  
+It covers the full **CRUD functionality** (Create, Read, Update, Delete) for customer accounts while interacting with files for data storage and retrieval.  
+This project demonstrates how to manage customer information, perform deposits and withdrawals, and maintain persistent records using file handling techniques.
+(https://github.com/doaajawad27/banksystem) .
 ---
 
-## 📸 معرض أعمالي
 
-<!-- يمكنكِ إضافة صور متحركة (GIF) أو لقطات شاشة تعرض واجهة بعض تطبيقاتك أو مشاريعك -->
+
+## 📸 Portfolio
+
 <p align="center">
-  <img src="https://path-to-your-project-image.png" alt="وصف المشروع" height="300">
+  <img src="https://path-to-your-project-image.png" alt="Project description" height="300">
 </p>
 
 ---
 
-## 🏆 إحصائيات GitHub
+## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=nord" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=nord" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=doaajawad27&show_icons=true&theme=tokyonight" alt="Doaa's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doaajawad27&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
-<!--
-**doaajawad27/doaajawad27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doaajawad27&theme=tokyonight" alt="GitHub Streak Stats" height="180"/>
+</p>
